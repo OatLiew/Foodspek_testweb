@@ -28,3 +28,8 @@ p {
     height: 600px;
 }
 
+/*loading image*/
+.loading:after { 
+    /*content: loading;*/
+    background-image: url(../img/loading.gif);
+}
